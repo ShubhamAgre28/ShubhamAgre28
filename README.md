@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/ShubhamAgre28">
+    <img src="https://github.com/ShubhamAgre28.png" width="130" height="130" alt="Shubham Agre" style="border-radius: 50%; border: 3px solid #3B82F6; box-shadow: 0 4px 12px rgba(59, 130, 246, 0.4);" />
+  </a>
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Shubham+Agre+%F0%9F%91%8B;Electronics+%26+Computer+Science+Engineer;Full-Stack+Web+Developer;Industrial+Automation+%7C+PLC+Engineer" alt="Typing SVG" />
 </h1>
